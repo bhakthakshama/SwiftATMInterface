@@ -1,0 +1,48 @@
+@options
+@packages
+-classpath
+'C:/Users/User/.m2/repository/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar;C:/Users/User/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'D:/KSHAMAA/FOURTH YEAR/INTERNSHIP 8th sem/ATMinterface/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/KSHAMAA/FOURTH YEAR/INTERNSHIP 8th sem/ATMinterface/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ATMinterface 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ATMinterface 1.0-SNAPSHOT API'
+com.mycompany.atminterface
+C:\Users\User\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar = 1710674354260
+C:\Users\User\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1710674354916
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\src\main\java = 1709399898092
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\allclasses-index.html = 1710726903429
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\allpackages-index.html = 1710726903438
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\copy.svg = 1710726903574
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\element-list = 1710726902818
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\help-doc.html = 1710726903554
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\index-all.html = 1710726903530
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\index.html = 1710726903537
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\jquery-ui.overrides.css = 1710726903663
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\member-search-index.js = 1710726903452
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\module-search-index.js = 1710726903441
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\overview-tree.html = 1710726903364
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\package-search-index.js = 1710726903445
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\script.js = 1710726903566
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\search.js = 1710726903585
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\serialized-form.html = 1710726903227
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\stylesheet.css = 1710726903563
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\tag-search-index.js = 1710726903455
+D:\KSHAMAA\FOURTH YEAR\INTERNSHIP 8th sem\ATMinterface\target\site\apidocs\type-search-index.js = 1710726903448
